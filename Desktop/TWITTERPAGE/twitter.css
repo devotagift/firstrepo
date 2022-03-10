@@ -1,0 +1,64 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+   .container{
+    width: 1000px;
+    height: 600px;
+    
+}
+ .white{
+    width: 500px;
+    height: 400px;
+    background-color: blue;
+    float: left;
+    background-image:url();
+
+ }
+ .blue{
+    width: 500px;
+    height: 400px;
+    background-color:white;
+    float: right;
+}
+.box2{
+    padding-left:200px;
+    padding-right: 100px;
+    padding-top: 150px;
+    margin: 10px;
+    
+}
+.box1{
+    padding-left: 90px;
+    padding-right: 100px;
+    padding-top: 100px;
+}
+p{
+    padding: 10px;
+}
+.box2 h3{
+    font-size: 26px;
+}
+.box2  button{
+    width: 300px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 50px;
+    background-color: blue;
+    
+
+}
+.button1{
+    background-color: blue;
+}
+
+.button2{
+    background-color: white;
+    width: 200px;
+    border-radius: 50px;
+}
+
+
+h1{
+    text-align: center;
+}
